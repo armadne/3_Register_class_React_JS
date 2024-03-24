@@ -1,0 +1,41 @@
+
+html
+
+{
+    text-align: center;
+}
+
+
+
+
+body
+
+{
+    background-color: bisque;
+}
+
+
+h1
+
+{
+    text-decoration: underline;
+}
+
+
+
+ul
+
+{
+    list-style-type: none;
+    border: 2px solid black;
+}
+
+
+
+
+button:hover
+{
+    color: gray;
+
+}
+
